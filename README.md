@@ -3,8 +3,8 @@
 Currently learning penetration testing/offensive security. I learn by doing hands-on practice and doing writeups that I post here. This README will also contain other resources, labs, websites, and tools that I found helpful.
 
 ### Info/Format of the Repo:
-- HTB - Name: HackTheBox - Name of the machine's writeup
 - [! Commands](https://github.com/BurntxNoodle/PenetrationTesting/tree/master/!%20Commands): Contains list of past commands that I've used that are helpful, that are now more easily accessible.
+- [HackTheBox Writeups](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups): Contains my writeups to retired HackTheBox machines that I have done. 
 
 ### Resources
 Resources:

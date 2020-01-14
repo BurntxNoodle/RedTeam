@@ -4,7 +4,26 @@ Currently learning penetration testing/offensive security. I learn by doing hand
 
 ### Info/Format of the Repo:
 - [! Commands](https://github.com/BurntxNoodle/PenetrationTesting/tree/master/!%20Commands): Contains list of past commands that I've used that are helpful, that are now more easily accessible.
-- [HackTheBox Writeups](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups): Contains my writeups to retired HackTheBox machines that I have done. 
+- [HackTheBox Writeups](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups): Contains my writeups to retired HackTheBox machines that I have done. [Click here](https://github.com/BurntxNoodle/RedTeam#HackTheBox-Table-of-Contents) for the table of contents of the HackTheBox writeups.
+- [Networking Notes](https://github.com/BurntxNoodle/RedTeam/tree/master/Networking%20Notes): Contains my written notes on computer networking as I believe it's important to learn networking to be effective in network pentesting. Content based on CCNA and CompTIA Network+ certs.
+
+### HackTheBox Table of Contents
+##### Note: sorted by difficulty
+- [Blue](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Blue) [Windows] ```done```
+- [Legacy](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Legacy) [Windows] ```done```
+- [Lame](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Lame) [Linux] ```done```
+- [Jerry](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Jerry) [Windows] ```done```
+- [Netmon](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Netmon) [Windows] ```done```
+- [Grandpa](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Grandpa) [Windows] ```done```
+- [Granny](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Granny) [Windows] ```done```
+- [Bashed](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Bashed) [Linux] ```done```
+- [Blocky](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Blocky) [Linux] ```done```
+- [Devel](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Devel) [Windows] ```done```
+- [Mirai](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Mirai) [Linux] [RaspberryPi] [Some Forensics] ```writeup in progress```
+- [Optimum](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Optimum) [Windows] ```done```
+- [Sense](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Sense) [FreeBSD] ```done```
+- [Tenten](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Tenten) [Linux] ```done```
+- [Access](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Access) [Windows] ```done```
 
 ### Resources
 Resources:

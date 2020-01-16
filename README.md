@@ -5,7 +5,8 @@ Currently learning penetration testing/offensive security. I learn by doing hand
 ### Info/Format of the Repo:
 - [! Commands](https://github.com/BurntxNoodle/PenetrationTesting/tree/master/!%20Commands): Contains list of past commands that I've used that are helpful, that are now more easily accessible.
 - [HackTheBox Writeups](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups): [Table of Contents here](https://github.com/BurntxNoodle/RedTeam#HackTheBox-Table-of-Contents). Contains my writeups to retired HackTheBox machines that I have done. 
-- [Networking Notes](https://github.com/BurntxNoodle/RedTeam/tree/master/Networking%20Notes): Contains my written notes on computer networking as I believe it's important to learn networking to be effective in network pentesting. Content based on CCNA and CompTIA Network+ certs.
+- [Networking Notes](https://github.com/BurntxNoodle/RedTeam/tree/master/Networking%20Notes): [Table of Contents here](https://github.com/BurntxNoodle/RedTeam#Networking-Notes-Table-of-Contents). Contains my written notes on computer networking as I believe it's important to learn networking to be effective in network pentesting. Content based on CCNA and CompTIA Network+ certs.
+- [Some Sources](https://github.com/BurntxNoodle/RedTeam#resources): External websites that have penetration testing/red team writeups, labs, and other content.
 
 ### HackTheBox Table of Contents
 ##### Note: sorted by difficulty
@@ -26,8 +27,11 @@ Currently learning penetration testing/offensive security. I learn by doing hand
 - [Tenten](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Tenten) [Linux] ```done```
 - [Access](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Access) [Windows] ```done```
 
+### Networking Notes Table of Contents
+##### Note: sorted by no specific order
+- [Internet Protocol](https://github.com/BurntxNoodle/RedTeam/blob/master/Networking%20Notes/Internet%20Protocol.md)
+
 ### Resources
-Resources:
 - [ippsec (youtube channel with HackTheBox guides)](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
 - [Cybrary](https://www.cybrary.it/) (Cisco CCNA course for networking)
 - [Loads of technical reports](https://github.com/juliocesarfort/public-pentesting-reports)

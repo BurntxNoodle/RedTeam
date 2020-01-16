@@ -1,6 +1,6 @@
 # Internet Protocol
 
-### Example of ethernet network:
+### Example of ethernet communication:
 
 From the client to the server:
 

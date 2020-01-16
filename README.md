@@ -4,7 +4,7 @@ Currently learning penetration testing/offensive security. I learn by doing hand
 
 ### Info/Format of the Repo:
 - [! Commands](https://github.com/BurntxNoodle/PenetrationTesting/tree/master/!%20Commands): Contains list of past commands that I've used that are helpful, that are now more easily accessible.
-- [HackTheBox Writeups](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups): Contains my writeups to retired HackTheBox machines that I have done. [Click here](https://github.com/BurntxNoodle/RedTeam#HackTheBox-Table-of-Contents) for the table of contents of the HackTheBox writeups.
+- [HackTheBox Writeups](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups): [Table of Contents here](https://github.com/BurntxNoodle/RedTeam#HackTheBox-Table-of-Contents). Contains my writeups to retired HackTheBox machines that I have done. 
 - [Networking Notes](https://github.com/BurntxNoodle/RedTeam/tree/master/Networking%20Notes): Contains my written notes on computer networking as I believe it's important to learn networking to be effective in network pentesting. Content based on CCNA and CompTIA Network+ certs.
 
 ### HackTheBox Table of Contents
@@ -19,8 +19,9 @@ Currently learning penetration testing/offensive security. I learn by doing hand
 - [Bashed](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Bashed) [Linux] ```done```
 - [Blocky](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Blocky) [Linux] ```done```
 - [Devel](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Devel) [Windows] ```done```
-- [Mirai](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Mirai) [Linux] [RaspberryPi] [Some Forensics] ```writeup in progress```
+- [Mirai](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Mirai) [Linux] [RaspberryPi] [Some Forensics] ```done```
 - [Optimum](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Optimum) [Windows] ```done```
+- [Beep](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Beep) [Linux] ```in progress```
 - [Sense](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Sense) [FreeBSD] ```done```
 - [Tenten](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Tenten) [Linux] ```done```
 - [Access](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Access) [Windows] ```done```

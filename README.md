@@ -22,10 +22,11 @@ Currently learning penetration testing/offensive security. I learn by doing hand
 - [Devel](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Devel) [Windows] ```done```
 - [Mirai](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Mirai) [Linux] [RaspberryPi] [Some Forensics] ```done```
 - [Optimum](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Optimum) [Windows] ```done```
-- [Beep](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Beep) [Linux] ```in progress```
+- [Beep](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Beep) [Linux] ```done```
 - [Sense](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Sense) [FreeBSD] ```done```
 - [Tenten](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Tenten) [Linux] ```done```
 - [Access](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Access) [Windows] ```done```
+- [Shocker](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Shocker) [Linux] ```in progress```
 
 ### Networking Notes Table of Contents
 ##### Note: sorted by no specific order

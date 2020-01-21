@@ -2,6 +2,8 @@
 
 ### Enumeration 
 
+[Sources](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Shocker#Sources)
+
 Starting of with a standard enumeration scan: ```nmap -sC -sV -oA shocker 10.10.10.56```. Bellow is the output:
 
 ![image](https://user-images.githubusercontent.com/41026969/72769401-8d662100-3bc8-11ea-91a9-1633f24b6da5.png)
@@ -23,3 +25,16 @@ Since gobuster didn't pick anything up, I decide to use dirbuster, which is a si
 Here's what dirbuster finds:
 
 ![image](https://user-images.githubusercontent.com/41026969/72773203-5f86d980-3bd4-11ea-83ac-a88d269447a5.png)
+
+There are a coupe interesting directories that dirbuster finds:
+
+- ```/cgi-bin/```
+- ```/server-status/```
+
+It looks like dirbuster didn't find any files in each of those directories though. Doing research on the ```[cgi-bin``` directory and reading into [the CGI wiki page](https://en.wikipedia.org/wiki/Common_Gateway_Interface#Using_CGI_scripts) I learned a bit how it works. Basically everytime there's an HTTP call to a script file in the ```address.com/cgi-bin``` directory, instead of sending the file from the local server, the server runs that file locally and then returns the output to the web page. Reading into the security part of the wiki page
+
+
+
+### Sources
+
+- [CGI wiki page](https://en.wikipedia.org/wiki/Common_Gateway_Interface#Using_CGI_scripts)

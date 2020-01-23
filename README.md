@@ -23,7 +23,7 @@ Currently learning penetration testing/offensive security. I learn by doing hand
 - [Mirai](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Mirai) [Linux] [RaspberryPi] [Some Forensics] ```done```
 - [Optimum](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Optimum) [Windows] ```done```
 - [Beep](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Beep) [Linux] ```done```
-- [Shocker](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Shocker) [Linux] ```in progress```
+- [Shocker](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Shocker) [Linux] ```done```
 - [Sense](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Sense) [FreeBSD] ```done```
 - [Tenten](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Tenten) [Linux] ```done```
 - [Access](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Access) [Windows] ```done```

@@ -10,24 +10,24 @@ Currently learning penetration testing/offensive security. I learn by doing hand
 
 ### HackTheBox Table of Contents
 ##### Note: sorted by difficulty
-- [Blue](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Blue) [Windows] ```done```
-- [Legacy](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Legacy) [Windows] ```done```
-- [Lame](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Lame) [Linux] ```done```
-- [Jerry](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Jerry) [Windows] ```done```
-- [Netmon](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Netmon) [Windows] ```done```
-- [Grandpa](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Grandpa) [Windows] ```done```
-- [Granny](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Granny) [Windows] ```done```
-- [Bashed](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Bashed) [Linux] ```done```
-- [Blocky](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Blocky) [Linux] ```done```
-- [Devel](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Devel) [Windows] ```done```
-- [Mirai](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Mirai) [Linux] [RaspberryPi] [Some Forensics] ```done```
-- [Optimum](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Optimum) [Windows] ```done```
-- [Beep](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Beep) [Linux] ```done```
-- [Shocker](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Shocker) [Linux] ```done```
-- [Sense](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Sense) [FreeBSD] ```done```
-- [Nibbles](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Nibbles) [Linux] ```done```
-- [Tenten](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Tenten) [Linux] ```done```
-- [Access](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Access) [Windows] ```done```
+1) [Blue](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Blue) [Windows] ```done```
+2) [Legacy](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Legacy) [Windows] ```done```
+3) [Lame](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Lame) [Linux] ```done```
+4) [Jerry](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Jerry) [Windows] ```done```
+5) [Netmon](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Netmon) [Windows] ```done```
+6) [Grandpa](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Grandpa) [Windows] ```done```
+7) [Granny](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Granny) [Windows] ```done```
+8) [Bashed](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Bashed) [Linux] ```done```
+9) [Blocky](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Blocky) [Linux] ```done```
+10) [Devel](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Devel) [Windows] ```done```
+11) [Mirai](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Mirai) [Linux] [RaspberryPi] [Some Forensics] ```done```
+12) [Optimum](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Optimum) [Windows] ```done```
+13) [Beep](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Beep) [Linux] ```done```
+14) [Shocker](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Shocker) [Linux] ```done```
+15) [Sense](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Sense) [FreeBSD] ```done```
+16) [Nibbles](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Nibbles) [Linux] ```done```
+17) [Tenten](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Tenten) [Linux] ```done```
+18) [Access](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Access) [Windows] ```done```
 
 Here's a table of HackTheBox machines that are like OSCP by ```TJnull at Netsec Focus```
 

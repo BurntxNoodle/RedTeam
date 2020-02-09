@@ -1,6 +1,6 @@
 # HackTheBox Nibbles
 
-[Sources](https://github.com/BurntxNoodle/RedTeam/edit/master/HackTheBox%20Writeups/HTB%20-%20Nibbles/Readme.md#Sources)
+[Sources](https://github.com/BurntxNoodle/RedTeam/blob/master/HackTheBox%20Writeups/HTB%20-%20Nibbles/Readme.md#sources)
 
 ### Enumeration
 

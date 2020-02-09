@@ -34,7 +34,7 @@ Here's a table of HackTheBox machines that are like OSCP by ```TJnull at Netsec 
 ![image](https://user-images.githubusercontent.com/41026969/72957460-a52cd900-3d71-11ea-965a-2b6ef31feaf4.png)
 
 ### Networking Notes Table of Contents
-##### Note: sorted by no specific order
+##### Note: Sorted by no specific order, if you want to see it in alphabetical order, [view the folder directly.](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups)
 - [Internet Protocol](https://github.com/BurntxNoodle/RedTeam/blob/master/Networking%20Notes/Internet%20Protocol.md)
 
 ### Resources

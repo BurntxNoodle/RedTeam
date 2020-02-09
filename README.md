@@ -4,8 +4,8 @@ Currently learning penetration testing/offensive security. I learn by doing hand
 
 ### Info/Format of the Repo:
 - [! Commands](https://github.com/BurntxNoodle/PenetrationTesting/tree/master/!%20Commands): Contains list of past commands that I've used that are helpful, that are now more easily accessible.
-- [HackTheBox Writeups](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups): [Table of Contents here](https://github.com/BurntxNoodle/RedTeam#HackTheBox-Table-of-Contents). Contains my writeups to retired HackTheBox machines that I have done. 
-- [Networking Notes](https://github.com/BurntxNoodle/RedTeam/tree/master/Networking%20Notes): [Table of Contents here](https://github.com/BurntxNoodle/RedTeam#Networking-Notes-Table-of-Contents). Contains my written notes on computer networking as I believe it's important to learn networking to be effective in network pentesting. Content based on CCNA and CompTIA Network+ certs.
+- [HackTheBox Writeups](https://github.com/BurntxNoodle/RedTeam#HackTheBox-Table-of-Contents): Contains writeups I have written for retired HackTheBox machines that I have done. 
+- [Networking Notes](https://github.com/BurntxNoodle/RedTeam#Networking-Notes-Table-of-Contents): Contains my written notes on computer networking as I believe it's important to learn networking to be effective in network pentesting. Content based on CCNA and CompTIA Network+ certs.
 - [Some Sources](https://github.com/BurntxNoodle/RedTeam#resources): External websites that have penetration testing/red team writeups, labs, and other content.
 
 ### HackTheBox Table of Contents
@@ -25,6 +25,7 @@ Currently learning penetration testing/offensive security. I learn by doing hand
 - [Beep](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Beep) [Linux] ```done```
 - [Shocker](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Shocker) [Linux] ```done```
 - [Sense](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Sense) [FreeBSD] ```done```
+- [Nibbles](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Nibbles) [Linux] ```done```
 - [Tenten](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Tenten) [Linux] ```done```
 - [Access](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Access) [Windows] ```done```
 
@@ -55,7 +56,7 @@ Websites to learn/practice (machines, labs, etc.):
 - [OSCP - Pentesting with Kali Linux (basics endgame)](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/)
 
 ### Extras
-Extra Tools Downloaded and Used in Writeups:
 - [windows-exploit-suggester.py](https://github.com/GDSSecurity/Windows-Exploit-Suggester)
+- [multiGo](https://github.com/BurntxNoodle/RedTeam/tree/master/multiGo)
 
 ##### Always Under Construction :) 

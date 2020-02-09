@@ -9,7 +9,7 @@ Currently learning penetration testing/offensive security. I learn by doing hand
 - [Some Sources](https://github.com/BurntxNoodle/RedTeam#resources): External websites that have penetration testing/red team writeups, labs, and other content.
 
 ### HackTheBox Table of Contents
-##### Note: sorted by difficulty
+##### Note: Sorted by difficulty, if you want to see it in alphabetical order, [view the folder directly.](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups)
 1) [Blue](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Blue) [Windows] ```done```
 2) [Legacy](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Legacy) [Windows] ```done```
 3) [Lame](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Lame) [Linux] ```done```
@@ -34,7 +34,7 @@ Here's a table of HackTheBox machines that are like OSCP by ```TJnull at Netsec 
 ![image](https://user-images.githubusercontent.com/41026969/72957460-a52cd900-3d71-11ea-965a-2b6ef31feaf4.png)
 
 ### Networking Notes Table of Contents
-##### Note: Sorted by no specific order, if you want to see it in alphabetical order, [view the folder directly.](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups)
+##### Note: Sorted by no specific order.
 - [Internet Protocol](https://github.com/BurntxNoodle/RedTeam/blob/master/Networking%20Notes/Internet%20Protocol.md)
 
 ### Resources

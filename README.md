@@ -3,7 +3,7 @@
 Currently learning penetration testing/offensive security. I learn by doing hands-on practice and doing writeups that I post here. This README will also contain other resources, labs, websites, and tools that I found helpful.
 
 ### Info/Format of the Repo:
-- [! Commands](https://github.com/BurntxNoodle/PenetrationTesting/tree/master/!%20Commands): Contains list of past commands that I've used that are helpful, that are now more easily accessible.
+- [! Commands](https://github.com/BurntxNoodle/RedTeam/tree/master/!%20Commands#past-commands): Contains list of past commands that I've used that are helpful, that are now more easily accessible.
 - [HackTheBox Writeups](https://github.com/BurntxNoodle/RedTeam#HackTheBox-Table-of-Contents): Contains writeups I have written for retired HackTheBox machines that I have done. 
 - [Networking Notes](https://github.com/BurntxNoodle/RedTeam#Networking-Notes-Table-of-Contents): Contains my written notes on computer networking as I believe it's important to learn networking to be effective in network pentesting. Content based on CCNA and CompTIA Network+ certs.
 - [Some Sources](https://github.com/BurntxNoodle/RedTeam#resources): External websites that have penetration testing/red team writeups, labs, and other content.

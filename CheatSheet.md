@@ -3,13 +3,13 @@
 This checklist/cheat sheet is designed to help with further enumeration, finding vulnerabilities, and gaining footholds by linking past examples to writeups.
 
 ## Table of Contents
-[General Windows Checklist]()
+[General Windows Checklist](https://github.com/BurntxNoodle/RedTeam/blob/master/CheatSheet.md#windows-checklist)
 
-[General Linux Checklist]()
+[General Linux Checklist](https://github.com/BurntxNoodle/RedTeam/blob/master/CheatSheet.md#linux-checklist)
 
 [Initial Enumeration - Nmap Scans](https://github.com/BurntxNoodle/RedTeam/blob/master/CheatSheet.md#initial-enumeration)
 
-[Port 80 - Web]()
+[Port 80 - Web](https://github.com/BurntxNoodle/RedTeam/blob/master/CheatSheet.md#port-80---web)
 
 ### Windows Checklist
 - [Check user info]()

@@ -8,12 +8,6 @@ Currently learning penetration testing/offensive security. I learn by doing hand
 - [Networking Notes](https://github.com/BurntxNoodle/RedTeam#Networking-Notes-Table-of-Contents): Contains my written notes on computer networking as I believe it's important to learn networking to be effective in network pentesting. Content based on CCNA and CompTIA Network+ certs.
 - [Some Sources](https://github.com/BurntxNoodle/RedTeam#resources): External websites that have penetration testing/red team writeups, labs, and other content.
 
-| Blue            | Windows   | done      |
-|-----------------|-----------|-----------|
-| something       | something | something |
-| adsfasdf        | asdfsadf  | asdfasf   |
-| sfdsadfsadfasdf |           | kjljk;l   |
-
 ### HackTheBox Table of Contents
 ##### Note: Sorted by difficulty, if you want to see it in alphabetical order, [view the folder directly.](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups)
 1) [Blue](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Blue) [Windows] ```done```

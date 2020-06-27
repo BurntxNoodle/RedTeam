@@ -11,6 +11,7 @@ Currently learning penetration testing/offensive security. I learn by doing hand
 ### HackTheBox Table of Contents
 ##### Note: Sorted by difficulty, if you want to see it in alphabetical order, [view the folder directly.](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups)
 1) [Blue](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Blue) [Windows] ```done```
+
 2) [Legacy](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Legacy) [Windows] ```done```
 3) [Lame](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Lame) [Linux] ```done```
 4) [Jerry](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Jerry) [Windows] ```done```

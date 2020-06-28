@@ -20,14 +20,17 @@
 
 
 
-<!--- COUPLE NEW LINES FOR STYLING-->
+<!--- FEW NEW LINES FOR STYLING-->
+<br>
+<br>
+<br>
 <br>
 <br>
 
 
 
 <!--- HACKTHEBOX TABLE OF CONTENTS -->
-<img align="right" width="80" height="80" src="https://user-images.githubusercontent.com/41026969/85939314-3a646880-b8e2-11ea-96ad-3155aeaf5cab.png"> 
+<img align="left" width="80" height="80" src="https://user-images.githubusercontent.com/41026969/85939314-3a646880-b8e2-11ea-96ad-3155aeaf5cab.png"> 
 
 ## &nbsp;HackTheBox Table of Contents
 ##### &nbsp;&nbsp;Note: Sorted by difficulty, if you want to see it in alphabetical order, [view the folder directly.](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups)
@@ -112,4 +115,20 @@ Websites to learn/practice (machines, labs, etc.):
 - [windows-exploit-suggester.py](https://github.com/GDSSecurity/Windows-Exploit-Suggester)
 - [multiGo](https://github.com/BurntxNoodle/RedTeam/tree/master/multiGo)
 
+
+
+<!--- COUPLE NEW LINES FOR STYLING-->
+<br>
+<br>
+
+
+
 ##### Always Under Construction :) 
+
+
+
+<!--- FOOTER -->
+<br>
+<br>
+<br>
+<br>

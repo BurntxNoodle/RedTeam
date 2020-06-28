@@ -27,7 +27,7 @@
 
 
 <!--- HACKTHEBOX TABLE OF CONTENTS -->
-<img align="left" width="80" height="80" src="https://user-images.githubusercontent.com/41026969/85939314-3a646880-b8e2-11ea-96ad-3155aeaf5cab.png"> 
+<img align="right" width="80" height="80" src="https://user-images.githubusercontent.com/41026969/85939314-3a646880-b8e2-11ea-96ad-3155aeaf5cab.png"> 
 
 ## &nbsp;HackTheBox Table of Contents
 ##### &nbsp;&nbsp;Note: Sorted by difficulty, if you want to see it in alphabetical order, [view the folder directly.](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups)

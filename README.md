@@ -14,9 +14,33 @@
 
 <!--- TABLE OF CONTENTS-->
 ## Catalog:
-* [HackTheBox Writeups](https://burntxnoodle.github.io/RedTeam/#hackthebox-table-of-contents): Retired HackTheBox machines writeups that I have done. 
-  * Sorted by User-Rated Difficulty
-  * Includes Windows/Linux
+* HackTheBox Writeups: Writeups for HackTheBox machines that I have written. 
+  * [Table of HackTheBox writeups](https://burntxnoodle.github.io/RedTeam/#hackthebox-table-of-contents) in order of difficulty, showing OS version and general info tags.
+  * <details>
+    <summary>Alternatively, click here to see list of writeups in alphabetical order. </summary>
+        &nbsp;&nbsp;• Access <br>
+        &nbsp;&nbsp;• Bashed <br>
+        &nbsp;&nbsp;• Beep <br>
+        &nbsp;&nbsp;• Blocky <br>
+        &nbsp;&nbsp;• Blue <br>
+        &nbsp;&nbsp;• Devel <br>
+        &nbsp;&nbsp;• Grandpa <br>
+        &nbsp;&nbsp;• Granny <br>
+        &nbsp;&nbsp;• Jerry <br>
+        &nbsp;&nbsp;• Lame <br>
+        &nbsp;&nbsp;• Legacy <br>
+        &nbsp;&nbsp;• Mirai <br>
+        &nbsp;&nbsp;• Netmon <br>
+        &nbsp;&nbsp;• Nibbles <br>
+        &nbsp;&nbsp;• Obscurity <br>
+        &nbsp;&nbsp;• OpenAdmin <br>
+        &nbsp;&nbsp;• Optimum <br>
+        &nbsp;&nbsp;• Resolute <br>
+        &nbsp;&nbsp;• Sense <br>
+        &nbsp;&nbsp;• Shocker <br>
+        &nbsp;&nbsp;• Tenten <br>
+        <br>
+    </details>
 * [Networking Notes](https://github.com/BurntxNoodle/RedTeam#Networking-Notes-Table-of-Contents): Contains my written notes on computer networking.
 * [Resources](https://github.com/BurntxNoodle/RedTeam#resources): External resources that are informational.
 

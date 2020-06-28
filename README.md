@@ -4,7 +4,7 @@
 # &nbsp;Offensive Security / Red Team
 &nbsp;&nbsp;All things offensive security related. Mostly HackTheBox writeups and resources.
 
-
+![image](https://user-images.githubusercontent.com/41026969/85955139-aaa6d480-b94a-11ea-880b-bc5e000fba62.png)
 
 <!--- COUPLE NEW LINES FOR STYLING-->
 <br>
@@ -18,7 +18,7 @@
 * [Networking Notes](https://github.com/BurntxNoodle/RedTeam#Networking-Notes-Table-of-Contents): Contains my written notes on computer networking.
 * [Resources](https://github.com/BurntxNoodle/RedTeam#resources): External resources that are informational.
 
-
+![image](https://user-images.githubusercontent.com/41026969/85955139-aaa6d480-b94a-11ea-880b-bc5e000fba62.png)
 
 <!--- FEW NEW LINES FOR STYLING-->
 <br>
@@ -62,9 +62,7 @@
 | Resolute  |      Windows     | ```DNS``` ```SMB``` ```DLL hijacking```              |                              |
 | Obscurity |       Linux      | ```custom exploitation``` ```CTF-like```             |                              |
 
-Here's a table of HackTheBox machines that are like OSCP by ```TJnull at Netsec Focus```
-
-![image](https://user-images.githubusercontent.com/41026969/72957460-a52cd900-3d71-11ea-965a-2b6ef31feaf4.png)
+![image](https://user-images.githubusercontent.com/41026969/85955139-aaa6d480-b94a-11ea-880b-bc5e000fba62.png)
 
 
 

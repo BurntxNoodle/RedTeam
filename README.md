@@ -14,7 +14,7 @@
 
 <!--- TABLE OF CONTENTS-->
 ## Catalog:
-* [HackTheBox Writeups](https://github.com/BurntxNoodle/RedTeam#HackTheBox-Table-of-Contents): Retired HackTheBox machines writeups that I have done. 
+* [HackTheBox Writeups](https://burntxnoodle.github.io/RedTeam/#hackthebox-table-of-contents): Retired HackTheBox machines writeups that I have done. 
 * [Networking Notes](https://github.com/BurntxNoodle/RedTeam#Networking-Notes-Table-of-Contents): Contains my written notes on computer networking.
 * [Resources](https://github.com/BurntxNoodle/RedTeam#resources): External resources that are informational.
 
@@ -36,29 +36,31 @@
 ##### &nbsp;&nbsp;Note: Sorted by difficulty, if you want to see it in alphabetical order, [view the folder directly.](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups)
 <br>
 
-| Box Name  | Operating System |                   Tag(s)                  | On TJnull's OSCP List? (Y/N) |
-|-----------|:----------------:|:-----------------------------------------:|:----------------------------:|
-| Blue      |      Windows     | ```Beginner``` ```metasploit``` ```SMB``` |               ✔️              |
-| Legacy    |      Windows     |                                           |                              |
-| Lame      |       Linux      |                                           |                              |
-| Jerry     |      Windows     |                                           |                              |
-| Netmon    |      Windows     |                                           |                              |
-| Granny    |      Windows     |                                           |                              |
-| Bashed    |       Linux      |                                           |                              |
-| Blocky    |       Linux      |                                           |                              |
-| Optimum   |      Windows     |                                           |                              |
-| Grandpa   |      Windows     |                                           |                              |
-| Beep      |       Linux      |                                           |                              |
-| Mirai     |       Linux      |                                           |                              |
-| Shocker   |       Linux      |                                           |                              |
-| Sense     |      FreeBSD     |                                           |                              |
-| Devel     |      Windows     |                                           |                              |
-| Nibbles   |       Linux      |                                           |                              |
-| Tenten    |       Linux      |                                           |                              |
-| Access    |      Windows     |                                           |                              |
-| OpenAdmin |       Linux      |                                           |                              |
-| Resolute  |      Windows     |                                           |                              |
-| Obscurity |       Linux      |                                           |                              |
+[TJnull's OSCP like boxes](https://twitter.com/TJ_Null/status/1162419643283333120/photo/1) are a list of boxes that can help with preparation for the OSCP.
+
+| Box Name  | Operating System |                   Tag(s)                             | On TJnull's OSCP List? (Y/N) |
+|-----------|:----------------:|:----------------------------------------------------:|:----------------------------:|
+| Blue      |      Windows     | ```beginner``` ```metasploit``` ```SMB``` ```cve```  |               ✔️            |
+| Legacy    |      Windows     | ```beginner```                                       |                              |
+| Lame      |       Linux      | ```beginner```                                       |                              |
+| Jerry     |      Windows     | ```beginner``` ```webshell``` ```cve```              |                              |
+| Netmon    |      Windows     |                                                      |                              |
+| Granny    |      Windows     |                                                      |                              |
+| Bashed    |       Linux      |                                                      |                              |
+| Blocky    |       Linux      |                                                      |                              |
+| Optimum   |      Windows     |                                                      |                              |
+| Grandpa   |      Windows     |                                                      |                              |
+| Beep      |       Linux      |                                                      |                              |
+| Mirai     |       Linux      |                                                      |                              |
+| Shocker   |       Linux      |                                                      |                              |
+| Sense     |      FreeBSD     |                                                      |                              |
+| Devel     |      Windows     |                                                      |                              |
+| Nibbles   |       Linux      |                                                      |                              |
+| Tenten    |       Linux      |                                                      |                              |
+| Access    |      Windows     |                                                      |                              |
+| OpenAdmin |       Linux      | ```SSH tunneling``` ```SSH cracking```               |                              |
+| Resolute  |      Windows     | ```DNS``` ```SMB``` ```DLL hijacking```              |                              |
+| Obscurity |       Linux      | ```custom exploitation``` ```CTF-like```             |                              |
 
 Here's a table of HackTheBox machines that are like OSCP by ```TJnull at Netsec Focus```
 

@@ -1,8 +1,8 @@
 <!--- KALI ICON AND HEADER INFORMATION -->
 <img align="left" width="150" height="100" src="https://user-images.githubusercontent.com/41026969/85939153-3dab2480-b8e1-11ea-8907-12532a36e4be.png"> 
 
-# Offensive Security / Red Team
-All things offensive security related. Mostly HackTheBox writeups and resources.
+# &nbsp;Offensive Security / Red Team
+&nbsp;All things offensive security related. Mostly HackTheBox writeups and resources.
 
 
 
@@ -16,7 +16,7 @@ All things offensive security related. Mostly HackTheBox writeups and resources.
 ## Catalog:
 * [HackTheBox Writeups](https://github.com/BurntxNoodle/RedTeam#HackTheBox-Table-of-Contents): Retired HackTheBox machines writeups that I have done. 
 * [Networking Notes](https://github.com/BurntxNoodle/RedTeam#Networking-Notes-Table-of-Contents): Contains my written notes on computer networking.
-* [Resources](https://github.com/BurntxNoodle/RedTeam#resources): External websites that have penetration testing/red team writeups, labs, and other content.
+* [Resources](https://github.com/BurntxNoodle/RedTeam#resources): External resources that are informational.
 
 
 
@@ -29,8 +29,8 @@ All things offensive security related. Mostly HackTheBox writeups and resources.
 <!--- HACKTHEBOX TABLE OF CONTENTS -->
 <img align="left" width="80" height="80" src="https://user-images.githubusercontent.com/41026969/85939314-3a646880-b8e2-11ea-96ad-3155aeaf5cab.png"> 
 
-## HackTheBox Table of Contents
-##### Note: Sorted by difficulty, if you want to see it in alphabetical order, [view the folder directly.](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups)
+## &nbsp;HackTheBox Table of Contents
+##### &nbsp;Note: Sorted by difficulty, if you want to see it in alphabetical order, [view the folder directly.](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups)
 <br>
 
 | Box Name  | Operating System |                   Tag(s)                  | On TJnull's OSCP List? (Y/N) |

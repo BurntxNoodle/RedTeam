@@ -18,7 +18,7 @@
 <!--- GO BACK TO MAIN PAGE-->
 <img align="left" width="70" height="50" src="https://user-images.githubusercontent.com/41026969/85958250-324c0d80-b962-11ea-9f08-25db9a95ddf0.png"> 
 
-### <br>&nbsp;&nbsp;Click [Here](https://burntxnoodle.github.io/#welcome-to-burntxnoodles-github) to Go Back to Main Page
+#### <br>&nbsp;&nbsp;Click [Here](https://burntxnoodle.github.io/#welcome-to-burntxnoodles-github) to Go Back to Main Page
 
 
 

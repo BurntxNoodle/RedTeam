@@ -36,9 +36,9 @@
 
 ## &nbsp;HackTheBox Table of Contents
 ##### &nbsp;&nbsp;Note: Sorted by difficulty, if you want to see it in alphabetical order, [view the folder directly.](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups)
-<br>
 
 ![image](https://user-images.githubusercontent.com/41026969/85955139-aaa6d480-b94a-11ea-880b-bc5e000fba62.png)
+<br>
 
 [TJnull's OSCP like boxes](https://twitter.com/TJ_Null/status/1162419643283333120/photo/1) are a list of boxes that can help with preparation for the OSCP.
 

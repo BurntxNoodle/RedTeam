@@ -6,10 +6,23 @@
 
 ![image](https://user-images.githubusercontent.com/41026969/85955139-aaa6d480-b94a-11ea-880b-bc5e000fba62.png)
 
+
+
+<!--- NEW LINE FOR STYLING-->
+<br>
+
+
+
+<!--- GO BACK TO MAIN PAGE-->
+<img align="left" width="70" height="50" src="https://user-images.githubusercontent.com/41026969/85958250-324c0d80-b962-11ea-9f08-25db9a95ddf0.png"> 
+
+### Click [Here](https://burntxnoodle.github.io/#welcome-to-burntxnoodles-github) to Go Back to Main Page
+
+
+
 <!--- COUPLE NEW LINES FOR STYLING-->
 <br>
 <br>
-
 
 
 <!--- TABLE OF CONTENTS-->
@@ -63,6 +76,8 @@
 
 
 <!--- HACKTHEBOX TABLE OF CONTENTS -->
+![image](https://user-images.githubusercontent.com/41026969/85955139-aaa6d480-b94a-11ea-880b-bc5e000fba62.png)
+
 <img align="left" width="80" height="80" src="https://user-images.githubusercontent.com/41026969/85939314-3a646880-b8e2-11ea-96ad-3155aeaf5cab.png"> 
 
 ## &nbsp;HackTheBox Table of Contents

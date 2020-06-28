@@ -2,7 +2,7 @@
 <img align="left" width="150" height="100" src="https://user-images.githubusercontent.com/41026969/85939153-3dab2480-b8e1-11ea-8907-12532a36e4be.png"> 
 
 # &nbsp;Offensive Security / Red Team
-&nbsp;All things offensive security related. Mostly HackTheBox writeups and resources.
+&nbsp;&nbsp;All things offensive security related. Mostly HackTheBox writeups and resources.
 
 
 
@@ -30,12 +30,12 @@
 <img align="left" width="80" height="80" src="https://user-images.githubusercontent.com/41026969/85939314-3a646880-b8e2-11ea-96ad-3155aeaf5cab.png"> 
 
 ## &nbsp;HackTheBox Table of Contents
-##### &nbsp;Note: Sorted by difficulty, if you want to see it in alphabetical order, [view the folder directly.](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups)
+##### &nbsp;&nbsp;Note: Sorted by difficulty, if you want to see it in alphabetical order, [view the folder directly.](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups)
 <br>
 
 | Box Name  | Operating System |                   Tag(s)                  | On TJnull's OSCP List? (Y/N) |
-|-----------|:----------------:|:-----------------------------------------:|------------------------------|
-| Blue      |      Windows     | ```Beginner``` ```metasploit``` ```SMB``` |                              |
+|-----------|:----------------:|:-----------------------------------------:|:----------------------------:|
+| Blue      |      Windows     | ```Beginner``` ```metasploit``` ```SMB``` |               ✔️              |
 | Legacy    |      Windows     |                                           |                              |
 | Lame      |       Linux      |                                           |                              |
 | Jerry     |      Windows     |                                           |                              |

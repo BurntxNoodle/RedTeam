@@ -1,14 +1,29 @@
-# Penetration Testing / Offensive Security / Red Team Stuff
+<!--- KALI ICON AND HEADER INFORMATION -->
+<img align="left" width="150" height="100" src="https://user-images.githubusercontent.com/41026969/85939153-3dab2480-b8e1-11ea-8907-12532a36e4be.png"> 
 
-Currently learning penetration testing/offensive security. I learn by doing hands-on practice and doing writeups that I post here. This README will also contain other resources, labs, websites, and tools that I found helpful.
+# Offensive Security / Red Team
+All things offensive security related. Mostly HackTheBox writeups and resources.
 
-### Info/Format of the Repo:
-- [! Commands](https://github.com/BurntxNoodle/RedTeam/tree/master/!%20Commands#past-commands): Contains list of past commands that I've used that are helpful, that are now more easily accessible.
-- [HackTheBox Writeups](https://github.com/BurntxNoodle/RedTeam#HackTheBox-Table-of-Contents): Contains writeups I have written for retired HackTheBox machines that I have done. 
-- [Networking Notes](https://github.com/BurntxNoodle/RedTeam#Networking-Notes-Table-of-Contents): Contains my written notes on computer networking as I believe it's important to learn networking to be effective in network pentesting. Content based on CCNA and CompTIA Network+ certs.
-- [Some Sources](https://github.com/BurntxNoodle/RedTeam#resources): External websites that have penetration testing/red team writeups, labs, and other content.
 
-### HackTheBox Table of Contents
+
+<!--- COUPLE NEW LINES FOR STYLING-->
+<br>
+<br>
+
+
+
+<!--- TABLE OF CONTENTS-->
+## Catalog:
+* [HackTheBox Writeups](https://github.com/BurntxNoodle/RedTeam#HackTheBox-Table-of-Contents): Retired HackTheBox machines writeups that I have done. 
+* [Networking Notes](https://github.com/BurntxNoodle/RedTeam#Networking-Notes-Table-of-Contents): Contains my written notes on computer networking.
+* [Resources](https://github.com/BurntxNoodle/RedTeam#resources): External websites that have penetration testing/red team writeups, labs, and other content.
+
+
+
+<!--- HACKTHEBOX TABLE OF CONTENTS -->
+<img align="left" width="90" height="90" src="https://user-images.githubusercontent.com/41026969/85939314-3a646880-b8e2-11ea-96ad-3155aeaf5cab.png"> 
+
+## HackTheBox Table of Contents
 ##### Note: Sorted by difficulty, if you want to see it in alphabetical order, [view the folder directly.](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups)
 1) [Blue](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups/HTB%20-%20Blue) [Windows] ```done```
 

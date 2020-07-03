@@ -31,31 +31,28 @@
 ## Catalog:
 * HackTheBox Writeups: Writeups for HackTheBox machines that I have written. 
   * [Table of HackTheBox writeups](https://burntxnoodle.github.io/RedTeam/#hackthebox-table-of-contents) in order of difficulty, showing OS version and general info tags.
-  * <details>
-    <summary>Alternatively, click here to see list of writeups in alphabetical order. </summary>
-        &nbsp;&nbsp;• Access <br>
-        &nbsp;&nbsp;• Bashed <br>
-        &nbsp;&nbsp;• Beep <br>
-        &nbsp;&nbsp;• Blocky <br>
-        &nbsp;&nbsp;• Blue <br>
-        &nbsp;&nbsp;• Devel <br>
-        &nbsp;&nbsp;• Grandpa <br>
-        &nbsp;&nbsp;• Granny <br>
-        &nbsp;&nbsp;• Jerry <br>
-        &nbsp;&nbsp;• Lame <br>
-        &nbsp;&nbsp;• Legacy <br>
-        &nbsp;&nbsp;• Mirai <br>
-        &nbsp;&nbsp;• Netmon <br>
-        &nbsp;&nbsp;• Nibbles <br>
-        &nbsp;&nbsp;• Obscurity <br>
-        &nbsp;&nbsp;• OpenAdmin <br>
-        &nbsp;&nbsp;• Optimum <br>
-        &nbsp;&nbsp;• Resolute <br>
-        &nbsp;&nbsp;• Sense <br>
-        &nbsp;&nbsp;• Shocker <br>
-        &nbsp;&nbsp;• Tenten <br>
-        <br>
-    </details>
+  * List of Available Writeups (go to table to view writeup): 
+    * Access 
+    * Bashed 
+    * Beep 
+    * Blocky 
+    * Blue 
+    * Devel 
+    * Grandpa 
+    * Granny 
+    * Jerry 
+    * Lame 
+    * Legacy 
+    * Mirai 
+    * Netmon 
+    * Nibbles 
+    * Obscurity 
+    * OpenAdmin 
+    * Optimum 
+    * Resolute 
+    * Sense 
+    * Shocker 
+    * Tenten 
 * [Networking Notes](https://github.com/BurntxNoodle/RedTeam#Networking-Notes-Table-of-Contents): Contains my written notes on computer networking.
 * [Resources](https://github.com/BurntxNoodle/RedTeam#resources): External resources that are informational.
 
@@ -92,27 +89,27 @@
 
 | Box Name  | Operating System |                   Tag(s)                             | On TJnull's OSCP List? (Y/N) |
 |-----------|:----------------:|:----------------------------------------------------:|:----------------------------:|
-| Blue      |      Windows     | ```beginner``` ```metasploit``` ```SMB``` ```cve```  |               ✔️            |
-| Legacy    |      Windows     | ```beginner```                                       |                              |
-| Lame      |       Linux      | ```beginner```                                       |                              |
-| Jerry     |      Windows     | ```beginner``` ```webshell``` ```cve```              |                              |
-| Netmon    |      Windows     |                                                      |                              |
-| Granny    |      Windows     |                                                      |                              |
-| Bashed    |       Linux      |                                                      |                              |
-| Blocky    |       Linux      |                                                      |                              |
-| Optimum   |      Windows     |                                                      |                              |
-| Grandpa   |      Windows     |                                                      |                              |
-| Beep      |       Linux      |                                                      |                              |
-| Mirai     |       Linux      |                                                      |                              |
-| Shocker   |       Linux      |                                                      |                              |
-| Sense     |      FreeBSD     |                                                      |                              |
-| Devel     |      Windows     |                                                      |                              |
-| Nibbles   |       Linux      |                                                      |                              |
-| Tenten    |       Linux      |                                                      |                              |
-| Access    |      Windows     |                                                      |                              |
-| OpenAdmin |       Linux      | ```SSH tunneling``` ```SSH cracking```               |                              |
-| Resolute  |      Windows     | ```DNS``` ```SMB``` ```DLL hijacking```              |                              |
-| Obscurity |       Linux      | ```custom exploitation``` ```CTF-like```             |                              |
+| [Blue](https://burntxnoodle.github.io/RedTeam/HackTheBox%20Writeups/HTB%20-%20Blue/#introduction)                 |      Windows     | ```noob``` ```metasploit``` ```SMB``` ```cve```                              |               ✔️               |
+| [Legacy](https://burntxnoodle.github.io/RedTeam/HackTheBox%20Writeups/HTB%20-%20Legacy/#introduction)             |      Windows     | ```noob``` ```cve```                                                         |         ✔️                     |
+| [Lame](https://burntxnoodle.github.io/RedTeam/HackTheBox%20Writeups/HTB%20-%20Lame/#introduction)                 |       Linux      | ```noob``` ```cve```                                                         |              ✔️                |
+| [Jerry](https://burntxnoodle.github.io/RedTeam/HackTheBox%20Writeups/HTB%20-%20Jerry/#introduction)               |      Windows     | ```easy``` ```webshell``` ```cve```                                          |                ✔️              |
+| [Netmon](https://burntxnoodle.github.io/RedTeam/HackTheBox%20Writeups/HTB%20-%20Netmon/#introduction)             |      Windows     | ```easy``` ```PRTG```                                                        |              ✔️                |
+| [Granny](https://burntxnoodle.github.io/RedTeam/HackTheBox%20Writeups/HTB%20-%20Granny/#hackthebox---granny)      |      Windows     | ```easy``` ```webdav``` ```ASPX``` ```msfvenom```                            |             ✔️                 |
+| [Bashed](https://burntxnoodle.github.io/RedTeam/HackTheBox%20Writeups/HTB%20-%20Bashed/#introduction)             |       Linux      | ```easy``` ```webshell```                                                    |             ✔️                 |
+| [Blocky](https://burntxnoodle.github.io/RedTeam/HackTheBox%20Writeups/HTB%20-%20Blocky/#hack-the-box---blocky)    |       Linux      | ```easy``` ```WordPress``` ```cve```                                         |                 ❌             |
+| [Optimum](https://burntxnoodle.github.io/RedTeam/HackTheBox%20Writeups/HTB%20-%20Optimum/#hack-the-box---optimum) |      Windows     | ```easy```  ```HFS``` ```metasploit```                                       |           ✔️                   |
+| [Grandpa](https://burntxnoodle.github.io/RedTeam/HackTheBox%20Writeups/HTB%20-%20Grandpa/#hackthebox---grandpa)   |      Windows     | ```easy``` ```webdav```                                                      |               ✔️               |
+| [Beep](https://burntxnoodle.github.io/RedTeam/HackTheBox%20Writeups/HTB%20-%20Beep/#hackthebox-beep)              |       Linux      | ```easy``` ```Elastix``` ```LFI exploit```                                   |                ✔️              |
+| [Mirai](https://burntxnoodle.github.io/RedTeam/HackTheBox%20Writeups/HTB%20-%20Mirai/#hackthebox---mirai)         |       Linux      | ```easy``` ```raspberry pi``` ```forensics``` ```CTF-like```                 |               ❌               |
+| [Shocker](https://burntxnoodle.github.io/RedTeam/HackTheBox%20Writeups/HTB%20-%20Shocker/#hackthebox-shocker)     |       Linux      | ```easy``` ```cgi-bin``` ```shellshock```                                    |              ✔️                |
+| [Sense](https://burntxnoodle.github.io/RedTeam/HackTheBox%20Writeups/HTB%20-%20Sense/#hack-the-box---sense)       |      FreeBSD     | ```easy``` ```FreeBSD```                                                     |               ✔️               |
+| [Devel](https://burntxnoodle.github.io/RedTeam/HackTheBox%20Writeups/HTB%20-%20Devel#introduction)                |      Windows     | ```easy``` ```IIS```                                                         |                ✔️              |
+| [Nibbles](https://burntxnoodle.github.io/RedTeam/HackTheBox%20Writeups/HTB%20-%20Nibbles/#hackthebox-nibbles)     |       Linux      | ```easy``` ```webshell```                                                    |            ✔️                  |
+| [Tenten](https://burntxnoodle.github.io/RedTeam/HackTheBox%20Writeups/HTB%20-%20Tenten/#introduction)             |       Linux      | ```easy``` ```wordpress```                                                   |              ❌                |
+| [Access](https://burntxnoodle.github.io/RedTeam/HackTheBox%20Writeups/HTB%20-%20Access/#hack-the-box---access)    |      Windows     | ```easy-medium``` ```database``` ```\savecred exploit```                     |            🚧 - Relatively new so not on list                  |
+| [OpenAdmin](https://burntxnoodle.github.io/RedTeam/HackTheBox%20Writeups/HTB%20-%20OpenAdmin/OpenAdmin.pdf)       |       Linux      | ```easy-medium``` ```SSH tunneling``` ```SSH cracking```                     |           🚧 - Relatively new so not on list                   |
+| [Resolute](https://burntxnoodle.github.io/RedTeam/HackTheBox%20Writeups/HTB%20-%20Resolute/Resolute.pdf)          |      Windows     | ```medium``` ```DNS``` ```SMB``` ```DLL hijacking```                         |            🚧 - Relatively new so not on list                  |
+| [Obscurity](https://burntxnoodle.github.io/RedTeam/HackTheBox%20Writeups/HTB%20-%20Obscurity/Obscurity.pdf)       |       Linux      | ```medium``` ```custom exploitation``` ```CTF-like```                        |                 🚧 - Relatively new so not on list             |
 
 ![image](https://user-images.githubusercontent.com/41026969/85955139-aaa6d480-b94a-11ea-880b-bc5e000fba62.png)
 

@@ -53,7 +53,9 @@
     * Sense 
     * Shocker 
     * Tenten 
-* [Networking Notes](https://github.com/BurntxNoodle/RedTeam#Networking-Notes-Table-of-Contents): Contains my written notes on computer networking.
+* [Networking Notes](https://burntxnoodle.github.io/RedTeam/#networking-table-of-contents): Notes about Networking that I have written while learning.
+  * Internet Protocol
+  * IP and MAC Addresses
 * [Resources](https://github.com/BurntxNoodle/RedTeam#resources): External resources that are informational.
 
 
@@ -122,6 +124,16 @@
 * [Internet Protocol](https://burntxnoodle.github.io/RedTeam/Networking%20Notes/Internet%20Protocol)
   * TCP vs UDP (very basic)
   * Common Ports
+* [IP and MAC Addresses](https://burntxnoodle.github.io/RedTeam/Networking%20Notes/IPandMACaddresses)
+  * IPv4
+  * IPv6
+  * Network Address Translation (NAT)
+  * Private IP Space
+  * MAC Addresses (general info)
+  
+![image](https://user-images.githubusercontent.com/41026969/85955139-aaa6d480-b94a-11ea-880b-bc5e000fba62.png)
+
+
 
 <!--- COUPLE NEW LINES FOR STYLING-->
 <br>

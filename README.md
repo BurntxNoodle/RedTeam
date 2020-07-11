@@ -61,18 +61,6 @@
 <!--- FEW NEW LINES FOR STYLING-->
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
 
 <!--- HACKTHEBOX TABLE OF CONTENTS -->
 ![image](https://user-images.githubusercontent.com/41026969/85955139-aaa6d480-b94a-11ea-880b-bc5e000fba62.png)
@@ -80,7 +68,7 @@
 <img align="left" width="80" height="80" src="https://user-images.githubusercontent.com/41026969/85939314-3a646880-b8e2-11ea-96ad-3155aeaf5cab.png"> 
 
 ## &nbsp;HackTheBox Table of Contents
-##### &nbsp;&nbsp;Note: Sorted by difficulty, if you want to see it in alphabetical order, [view the folder directly.](https://github.com/BurntxNoodle/RedTeam/tree/master/HackTheBox%20Writeups)
+##### &nbsp;&nbsp;Note: Sorted by difficulty, if you want to see it in alphabetical order, [go back up to catalog.](https://burntxnoodle.github.io/RedTeam/#catalog)
 
 ![image](https://user-images.githubusercontent.com/41026969/85955139-aaa6d480-b94a-11ea-880b-bc5e000fba62.png)
 <br>
@@ -121,11 +109,19 @@
 
 
 
-### Networking Notes Table of Contents
-##### Note: Sorted by no specific order.
-- [Internet Protocol](https://github.com/BurntxNoodle/RedTeam/blob/master/Networking%20Notes/Internet%20Protocol.md)
+<!--- NETWORKING TABLE OF CONTENTS -->
+![image](https://user-images.githubusercontent.com/41026969/85955139-aaa6d480-b94a-11ea-880b-bc5e000fba62.png)
 
+<img align="left" width="80" height="80" src="https://user-images.githubusercontent.com/41026969/87213108-73dca100-c2f0-11ea-929e-d212e12894f8.jpg"> 
 
+## &nbsp;Networking Table of Contents
+##### &nbsp;&nbsp;Note: This area of security involves a lot of networking information, it's good to know the basics.
+
+![image](https://user-images.githubusercontent.com/41026969/85955139-aaa6d480-b94a-11ea-880b-bc5e000fba62.png)
+
+* [Internet Protocol](https://burntxnoodle.github.io/RedTeam/Networking%20Notes/Internet%20Protocol)
+  * TCP vs UDP (very basic)
+  * Common Ports
 
 <!--- COUPLE NEW LINES FOR STYLING-->
 <br>
@@ -150,7 +146,6 @@ Websites to learn/practice (machines, labs, etc.):
 - [Course/lab enrollment by learnSecurity (good for beginners)](https://www.elearnsecurity.com/course/penetration_testing_student/)
 - [virtualhackinglabs (harder stuff)](https://www.virtualhackinglabs.com/labs/penetration-testing-lab/)
 - [OSCP - Pentesting with Kali Linux (basics endgame)](https://www.offensive-security.com/information-security-training/penetration-testing-training-kali-linux/)
-
 
 
 

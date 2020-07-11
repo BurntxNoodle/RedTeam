@@ -29,6 +29,22 @@ Picture of the OSI layers:
 - "reliable" delivery as it can get recovery from errors 
 - expects communication back that something is received successfully (like a 'read' receipt)
 - Receiving device can manage how much data is sent, this is called Flow control
+- "Connection oritented"
+
+#### TCP 3 Way Handshake
+The TCP 3 Way Handshake is what makes TCP more reliable as it goes through this three step process to ensure communication between a client and server. 
+
+* Step 1 - SYN
+	* The client attempts to establish a connection with the server so it sends a SYN (Synchronize Sequence Number) bit.
+	* Informs the server that a client is likely to start communication.
+* Step 2 - SYN + ACK
+	* The server responds from step 1 with a SYN-ACK.
+	* Can think of this as the server receiving the connection from Step 1, and sends the client a Synchronize-Acknowledge.
+* Step 3 - ACK
+	* The client receives the SYN-ACK.
+	* Client sends back an ACK.
+
+Once complete, both the client/server have received an acknowledgement of the connection and the TCP handshake is complete, establishing full communication.
 
 ### UDP
 - User Datagram Protocol   
@@ -40,9 +56,18 @@ Picture of the OSI layers:
 - Transferring data from one IP address to another IP address
 - In the data, there is a port number to determine where in the IP address it will be going to
 - Each port usually has a designated service/applications
-- Port 80 is usually web traffic
-- Port 443 is encrypted web traffic
-- Port 25 is usually mail service
+- Port 21 is usuallyFTP 
+- Port 22 is usually SSH
+- Port 25 is usually mail service (SMTP)
+- Port 53 is usually DNS
+- Port 80 is usually HTTP
+- Port 139 / 445 is usually SMB
+- Port 443 is is usually HTTPS
+- All of the above is for TCP ports, for UDP ports:
+	- Port 53 is usually DNS
+	- Port 67/68 is usually DHCP
+	- Port 69 is usually TFTP
+	- Port 161 is usually SNMP 
 
 ### Ports
 - IPv4 sockets: server IP addresses, protocol, server application port number. or client IP address, protocl, client port number

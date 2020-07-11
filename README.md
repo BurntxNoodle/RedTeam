@@ -31,7 +31,7 @@
 <!--- TABLE OF CONTENTS-->
 ## Catalog:
 * HackTheBox Writeups: Writeups for HackTheBox machines that I have written. 
-  * [Table of HackTheBox writeups](https://burntxnoodle.github.io/RedTeam/#hackthebox-table-of-contents) in order of difficulty, showing OS version and general info tags.
+  * [Table of HackTheBox writeups](https://burntxnoodle.github.io/RedTeam/#%E1%9E%B5%E1%9E%B5) in order of difficulty, showing OS version and general info tags.
   * List of Available Writeups (go to table to view writeup): 
     * Access 
     * Bashed 
@@ -67,6 +67,7 @@
 
 
 
+<!--- INVISBLE CHARACTERS FOR BETTER LOOKS-->
 ###  ឵឵
 <!--- HACKTHEBOX TABLE OF CONTENTS -->
 ![image](https://user-images.githubusercontent.com/41026969/85955139-aaa6d480-b94a-11ea-880b-bc5e000fba62.png)
@@ -115,6 +116,7 @@
 
 
 
+### 
 <!--- NETWORKING TABLE OF CONTENTS -->
 ![image](https://user-images.githubusercontent.com/41026969/85955139-aaa6d480-b94a-11ea-880b-bc5e000fba62.png)
 

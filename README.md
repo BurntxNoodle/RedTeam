@@ -4,7 +4,7 @@
 <img align="left" width="150" height="100" src="https://user-images.githubusercontent.com/41026969/85939153-3dab2480-b8e1-11ea-8907-12532a36e4be.png"> 
 
 # &nbsp;Offensive Security / Red Team
-&nbsp;&nbsp;All things offensive security related. Mostly HackTheBox writeups and &nbsp;resources.
+&nbsp;&nbsp;All things offensive security related. Mostly HackTheBox writeups and &nbsp;&nbsp;resources.
 
 ![image](https://user-images.githubusercontent.com/41026969/85955139-aaa6d480-b94a-11ea-880b-bc5e000fba62.png)
 

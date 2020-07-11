@@ -54,7 +54,7 @@
     * Sense 
     * Shocker 
     * Tenten 
-* [Networking Notes](https://burntxnoodle.github.io/RedTeam/#networking-table-of-contents): Notes about Networking that I have written while learning.
+* [Networking Notes](https://burntxnoodle.github.io/RedTeam/#%E1%9E%B5%E1%9E%B5-1): Notes about Networking that I have written while learning.
   * Internet Protocol
   * IP and MAC Addresses
 * [Resources](https://github.com/BurntxNoodle/RedTeam#resources): External resources that are informational.

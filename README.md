@@ -55,6 +55,7 @@ Click [Here](https://burntxnoodle.github.io/#welcome-to-burntxnoodles-github) to
 * [Networking Notes](https://burntxnoodle.github.io/RedTeam/#%E1%9E%B5%E1%9E%B5-1): Notes about Networking that I have written while learning.
   * Internet Protocol
   * IP and MAC Addresses
+  * The OSI Model
 * [Resources](https://github.com/BurntxNoodle/RedTeam#resources): External resources that are informational.
 
 

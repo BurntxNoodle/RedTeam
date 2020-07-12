@@ -1,8 +1,8 @@
 # The OSI Model
 
-The OSI model (Open Systems Interconnection Model) is a model that splits up networking communication into a system of seven layers. Picture of the different layers below by [Cloudfare](https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/):
+The OSI model (Open Systems Interconnection Model) is a model that splits up networking communication into a system of seven layers. Picture of the different layers below by:
 
-![image](https://user-images.githubusercontent.com/41026969/87237758-eff5e800-c3c7-11ea-8e12-8668325e09e5.png)
+![image](https://user-images.githubusercontent.com/41026969/87239135-8979c580-c3d9-11ea-8e45-79a346ed0f87.png)
 
 Information on each of the layers starting from the bottom:
 

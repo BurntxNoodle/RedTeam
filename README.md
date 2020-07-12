@@ -16,9 +16,7 @@
 
 
 <!--- GO BACK TO MAIN PAGE-->
-<img align="left" width="70" height="50" src="https://user-images.githubusercontent.com/41026969/85958250-324c0d80-b962-11ea-9f08-25db9a95ddf0.png"> 
-
-#### <br>&nbsp;&nbsp;Click [Here](https://burntxnoodle.github.io/#welcome-to-burntxnoodles-github) to Go Back to Main Page
+Click [Here](https://burntxnoodle.github.io/#welcome-to-burntxnoodles-github) to Go Back to Main Page
 
 
 
@@ -136,6 +134,8 @@
   * Network Address Translation (NAT)
   * Private IP Space
   * MAC Addresses (general info)
+* [The OSI Model](https://burntxnoodle.github.io/RedTeam/Networking%20Notes/OSImodel)
+  * The 7 layers of the OSI model and their descriptions
   
 ![image](https://user-images.githubusercontent.com/41026969/85955139-aaa6d480-b94a-11ea-880b-bc5e000fba62.png)
 
